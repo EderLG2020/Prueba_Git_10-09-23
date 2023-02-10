@@ -2,3 +2,12 @@ Diego
 sddsdds
 prueba 2
 prueba 3
+<<<<<<< Updated upstream
+=======
+prueba 4
+prueba 5
+
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
